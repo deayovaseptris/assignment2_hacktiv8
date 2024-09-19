@@ -1,0 +1,29 @@
+body {
+  font-family: "Great Vibes", cursive;
+  background-color: #f0f8ff;
+  text-align: center;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid #000;
+  background-color: #fff;
+}
+
+h1 {
+  color: #ffd700;
+  font-size: 3em;
+}
+
+p {
+  font-size: 1.2em;
+  color: #141313;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  margin-top: 20px;
+}
